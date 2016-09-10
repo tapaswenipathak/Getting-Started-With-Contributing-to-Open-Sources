@@ -8,3 +8,4 @@ Some useful answers, posts on Quora to help you get started.
 6. [How can I learn to understand the logic behind large projects on GitHub?](https://www.quora.com/How-can-I-learn-to-understand-the-logic-behind-large-projects-on-GitHub)
 7. [Are two months enough to contribute something to an open source project?](https://www.quora.com/Are-two-months-enough-to-contribute-something-to-an-open-source-project)
 8. [What is the best way to start contributing to the Linux kernel?](https://www.quora.com/What-is-the-best-way-to-start-contributing-to-the-Linux-kernel)
+9. [What is GitHub for a beginner and how to get started with it?](https://www.quora.com/What-is-GitHub-for-a-beginner-and-how-to-get-started-with-it)
