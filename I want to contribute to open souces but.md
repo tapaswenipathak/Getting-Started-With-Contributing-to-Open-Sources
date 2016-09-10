@@ -43,3 +43,19 @@ What can I refer to understand these better?
 29. I am in my 2nd semester [..] but I have some doubts about it..1st is Which language should I learn for Linux Kernel is it C or C++?? As I am a Web developer so according to skills (HTML5,CSS,JS,ANGULAR.JS,MYSQL ORACLE,PHP,NODE.JS) is there any project in LINUX COMMUNITY?  
 30. I had a doubt regarding Outreachy. I shall be having some 61 credits in the next semester when I shall be taking up Outreachy. Within this 61 credits, I shall have 5 credits for a stream project. I wish to take up the Outreachy project as the stream project. It shall be viable, right?
  
+................................................
+
+How to find bugs and how to find the appropriate solution for them?
+What else can we do rather than fixing bugs in open source?
+How much time will it take us to get comfortable with open source?
+What are the skills required for outreachy selection?
+How to convince the mentor that we can be an asset to the team?
+How to contribute to the project and how to write the first patch(from where should I start)?
+Should I contact the mentor first and then submit my application form?
+The projects seem intimidating,how do I choose which one to work on?
+Do I need to have all the skills beforehand(because they have mentioned various languages) or I can learn during the application process?
+I fear that I can't be very useful for the community, that resists me from even starting to work on open source projects.
+How can I tackle that?
+I don't have any experience of open source, can I still hope that I can be selected for Outreachy(dec-march) if I contribute and learn during the process?or experience in open source is compulsory
+
+
