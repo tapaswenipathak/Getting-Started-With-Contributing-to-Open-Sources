@@ -6,4 +6,5 @@ to contribute to their projects.
 3. [What Can I Do For Mozilla?](http://www.whatcanidoformozilla.org/#!/progornoprog/support)
 4. [How to become a MediaWiki hacker?](https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker)
 5. [Apache Newcomers Guide](http://community.apache.org/newcomers/index.html)
+6. [KDE guide] (https://community.kde.org/Get_Involved)
 
