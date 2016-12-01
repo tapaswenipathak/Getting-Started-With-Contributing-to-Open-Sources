@@ -19,3 +19,6 @@ This has useful links to help you get started with contributing to open sources.
 
 
 You can submit problems that you face while contributing to an open source project as an issue in this repository as well.
+
+
+You can ask your questions in [OpenSourceHelp](https://opensourcehelp.slack.com) Slack Community about how tos of open source. Request an invite [here](https://opensourcehelp.herokuapp.com). 
