@@ -5,3 +5,4 @@ This has useful links to learn X.
 3. [VimGifs](http://vimgifs.com/)
 4. [GitHub Help Guide](https://help.github.com/)
 5. [IRC](https://fedoramagazine.org/beginners-guide-irc/)
+6. [Git and Github in Plain English](https://red-badger.com/blog/2016/11/29/gitgithub-in-plain-english)
