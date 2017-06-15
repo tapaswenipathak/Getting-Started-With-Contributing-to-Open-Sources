@@ -1,5 +1,5 @@
 
-## Open Source : A Journey to Infinity and Beyond and Lessons 
+## Open Source : Lessons on my Journey to Infinity and Beyond
 
 This is a tale of a dream come true. This story starts way back in 2016. I was working as a software developer in one of the tech firms in Uganda at the time. I was not happy and had decided that I rather go back to school to pursue my Aeronautical Engineering career. I have always had a craving to contribute to open source but did not know where to start. 
 
