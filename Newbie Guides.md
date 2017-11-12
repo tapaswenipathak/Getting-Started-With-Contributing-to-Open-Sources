@@ -7,4 +7,4 @@ to contribute to their projects.
 4. [How to become a MediaWiki hacker?](https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker)
 5. [Apache Newcomers Guide](http://community.apache.org/newcomers/index.html)
 6. [KDE guide](https://community.kde.org/Get_Involved)
-
+7. [Learn the GitHub workflow](https://github.com/danthareja/contribute-to-open-source)
