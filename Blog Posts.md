@@ -7,3 +7,4 @@ Useful blog posts of people on how they got started with contributing to open so
 5. [Getting Started in Open Source](https://sinceeverybodyhasablog.wordpress.com/2015/12/07/getting-started-in-open-source/)
 6. [First Timers Only](http://www.firsttimersonly.com)
 7. [24 Pull Requests](https://24pullrequests.com/contributing)
+8. [Getting started with Google Summer of Code](https://medium.com/@rohithasrk/getting-started-with-google-summer-of-code-7dfb8f6d4572)
