@@ -1,4 +1,7 @@
 # Getting-Started-With-Contributing-to-Open-Sources
+
+:warning: Repository note: unmaintained and archived. :warning:
+
 This has useful links to help you get started with contributing to open sources.
 
 ### This repository contains
